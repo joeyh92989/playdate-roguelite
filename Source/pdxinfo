@@ -1,0 +1,6 @@
+name=Roguelite TD
+author=Joey Haas
+description=Side-scrolling roguelite tower defense.
+bundleID=com.joeyhaas.roguelitetd
+version=0.1
+buildNumber=1
